@@ -4,60 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bf1165-d0f9-41d1-bb65-1fcef70f63d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY1D/arraybasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY2D/arr2dbasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BASICS/inputoutputdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BASICS/printdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/TypeAndProtocolOfWeb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/ifAndElse2nd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/ifelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/ladderIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/leapyear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/youngcheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXCEPTIONHANDLING/CustomExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXCEPTIONHANDLING/finallyblock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXCEPTIONHANDLING/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/filehandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics_and_Wrapper_class/genericsmethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics_and_Wrapper_class/learngenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics_and_Wrapper_class/wrapperclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/loopbasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/reversewhilebasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/tablemultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/twoinoneloopbasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/Basicofvariablearguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/Sumofallnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/Variable_arguments/Basic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/LargerNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/ModifyValueInDeffention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/ObjectMethodModify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/primenocheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHODOVERLOADING/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/METHODOVERLOADING/methodoverloadingbasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MULTITHREADING/ThreadOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MULTITHREADING/mutithreading_using_runnable_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MULTITHREADING/usingThreadclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/Dequeue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/listpart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/listpart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/priorityqueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/queuepart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/stackbasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/oopsbasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STRINGS/stringbasic.java" afterDir="false" />
+    <list default="true" id="38bf1165-d0f9-41d1-bb65-1fcef70f63d7" name="Changes" comment="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Priyanshu462003"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Priyanshu462003/Java_codes.Core_Java.git",
@@ -161,6 +115,15 @@
       <option name="presentableId" value="Default" />
       <updated>1720717065314</updated>
     </task>
+    <task id="LOCAL-00001" summary="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;">
+      <option name="closed" value="true" />
+      <created>1722331806203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722331806203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +136,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
