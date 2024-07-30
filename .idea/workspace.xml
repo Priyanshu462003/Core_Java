@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38bf1165-d0f9-41d1-bb65-1fcef70f63d7" name="Changes" comment="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="JAVA/main" />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Priyanshu kashyap &lt;priyanshukashyap.cse2023@ritroorkee.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -47,31 +56,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CustomExceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dequeue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arraybasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.comparableandcomparator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.filehandling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finallyblock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.genericsmethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inputoutputdemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.learngenerics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.listpart1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mutithreading_using_runnable_interface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primenocheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printdemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priorityqueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.usingThreadclass.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/honey/IdeaProjects/JAVA/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CustomExceptions.executor": "Run",
+    "Application.Dequeue.executor": "Run",
+    "Application.ThreadOperations.executor": "Run",
+    "Application.arraybasic.executor": "Run",
+    "Application.comparableandcomparator.executor": "Run",
+    "Application.filehandling.executor": "Run",
+    "Application.finallyblock.executor": "Run",
+    "Application.genericsmethods.executor": "Run",
+    "Application.inputoutputdemo.executor": "Run",
+    "Application.learngenerics.executor": "Run",
+    "Application.listpart1.executor": "Run",
+    "Application.mutithreading_using_runnable_interface.executor": "Run",
+    "Application.primenocheck.executor": "Run",
+    "Application.printdemo.executor": "Run",
+    "Application.priorityqueue.executor": "Run",
+    "Application.usingThreadclass.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Merging master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/honey/IdeaProjects/JAVA/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.listpart1">
     <configuration name="listpart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.Collection_Frameworks.listpart1" />
@@ -123,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722331806203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;">
+      <option name="closed" value="true" />
+      <created>1722332135029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722332135029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;">
+      <option name="closed" value="true" />
+      <created>1722332321299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722332321299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +163,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;&#10;&#10;&#10;git remote add origin https://github.com/Priyanshu462003/Java_codes.Core_Java.git&#10;git branch -M main&#10;git push -u origin main" />
     <MESSAGE value="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="git config --global user.email &quot;priyanshukashyap.cse2023@ritroorkee.com&quot;     git config --global user.name &quot;Priyanshu462003&quot;" />
   </component>
