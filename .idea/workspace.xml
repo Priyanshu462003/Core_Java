@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38bf1165-d0f9-41d1-bb65-1fcef70f63d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY1D/arraybasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY2D/arr2dbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASICS/inputoutputdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASICS/printdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/TypeAndProtocolOfWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/ifAndElse2nd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/ladderIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/leapyear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/youngcheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXCEPTIONHANDLING/CustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXCEPTIONHANDLING/finallyblock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXCEPTIONHANDLING/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/filehandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_and_Wrapper_class/genericsmethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_and_Wrapper_class/learngenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_and_Wrapper_class/wrapperclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LOOPS/loopbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LOOPS/reversewhilebasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LOOPS/tablemultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LOOPS/twoinoneloopbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/Basicofvariablearguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/Sumofallnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/Variable_arguments/Basic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/LargerNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/ModifyValueInDeffention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/ObjectMethodModify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHOD/methodfunction/primenocheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHODOVERLOADING/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/METHODOVERLOADING/methodoverloadingbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MULTITHREADING/ThreadOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MULTITHREADING/mutithreading_using_runnable_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MULTITHREADING/usingThreadclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/Dequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/listpart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/listpart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/priorityqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/queuepart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Collection_Frameworks/stackbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/oopsbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STRINGS/stringbasic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Priyanshu462003/Java_codes.Core_Java.git",
+    "accountId": "79ac6a6a-cf88-4fb1-822f-9646d01b752c"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2j6ooB6ANPYzH4Dm0DEi7Lm1nzy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CustomExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dequeue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraybasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.comparableandcomparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.filehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.finallyblock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.genericsmethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inputoutputdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.learngenerics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.listpart1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mutithreading_using_runnable_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primenocheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.priorityqueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.usingThreadclass.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/honey/IdeaProjects/JAVA/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.listpart1">
+    <configuration name="listpart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Collection_Frameworks.listpart1" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.Collection_Frameworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primenocheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="METHOD.methodfunction.primenocheck" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="METHOD.methodfunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.listpart1" />
+        <item itemvalue="Application.primenocheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38bf1165-d0f9-41d1-bb65-1fcef70f63d7" name="Changes" comment="" />
+      <created>1720717065314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720717065314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
